@@ -1,4 +1,4 @@
-<img src="https://hackernoon.com/images/f2px36fy.gif"/>
+<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"/>
 <fieldset>
   <legend>
     <h1 align="Left">Hola👋, this is Chaitanya</h1>
