@@ -1,5 +1,17 @@
+
+<!--<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif" alt="coder's_gif">
+</p> -->
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="coder's_gif">
+    
+</p>
+
+
+
 <div align="center" style="display: flex;">
-    <h1 >hELLO..</h1> 
+    <h1 >Hola, I'm Pardhu </h1> 
+    <p><img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"></p>
 </div>
 
 <div id="user-content-toc">
@@ -49,9 +61,8 @@
 
 
 <!--horizontal divider(gradiant)-->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--
 **Pardhu-Guttula/Pardhu-Guttula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -64,4 +75,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
