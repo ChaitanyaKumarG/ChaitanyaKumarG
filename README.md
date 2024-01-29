@@ -1,6 +1,6 @@
 <div align="center" style="display: flex;">
     <h1 >Hola, I'm Chaitu; </h1> 
-    <p><img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"></p>
+    <p><img src="[https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif](https://www.icegif.com/wp-content/uploads/good-morning-icegif-25.gif)"></p>
 </div>
 
 <div id="user-content-toc">
